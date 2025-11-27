@@ -58,10 +58,10 @@ UI updates the user on:
 
 ## 📜 Deployed Smart Contract  
 **Contract Link:**  
-XXX  
+https://coston2-explorer.flare.network//tx/0x224b85d450a5b6f493f219e1221337e4148e242fb38595e58b1dd3721bf65988 
 
 ---
 
 ## 🧩 Code Used  
-```ts
+inventorylogin.sol
 //paste your code
